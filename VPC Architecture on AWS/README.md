@@ -1,6 +1,10 @@
 
 # Deploy Scalable VPC Architecture on AWS cloud
 
+![Screenshot](images/Screenshot 2023-11-22 at 16.05.15.png)
+
+
+
 ### Goal
 Deploy a Modular and Scalable Virtual Network Architecture with Amazon VPC.
 
