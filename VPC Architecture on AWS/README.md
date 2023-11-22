@@ -1,7 +1,7 @@
 
 # Deploy Scalable VPC Architecture on AWS cloud
 
-![Screenshot](images/Screenshot 2023-11-22 at 16.05.15.png)
+![Architecture](images/Architecture.png)
 
 
 
